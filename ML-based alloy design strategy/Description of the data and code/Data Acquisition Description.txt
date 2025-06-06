@@ -1,1 +1,1 @@
-Since the research is still in progress, the raw datasets involved in the code are not publicly available. However, they can be obtained from the author with a valid reason.
+The data used in this project have been published in an article in npj Computational Materials, entitled ‘Novel Machine Learning Driven Design Strategy for High-Strength Zn Alloys Optimization with Multiple Constraints’.
